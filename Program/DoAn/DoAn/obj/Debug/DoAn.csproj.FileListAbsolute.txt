@@ -1,0 +1,257 @@
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userBaoCao.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmCN_Sach.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDangNhap.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemNV.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userHDNhapSach.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.MainFrame.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userKhachHang.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userThongTinSach.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userTrangChu.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userNhapSach.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userNhanVien.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userNhaCungCap.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userHDBan.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDoiMatKhau.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDMK.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemNCC.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemKH.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmNhapMaKH.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmXN_DieuKien.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.TraCuuThongTin.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.Tim_Thong_Tin.resources
+D:\Study\1_.NET\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+E:\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDMK.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDoiMatKhau.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmNhapMaKH.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemKH.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.Tim_Thong_Tin.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userBaoCao.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemNCC.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmCN_Sach.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDangNhap.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userNhaCungCap.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmXN_DieuKien.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemNV.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userHDNhapSach.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.MainFrame.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userHDBan.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userKhachHang.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userNhanVien.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userNhapSach.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userThongTinSach.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userTrangChu.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.TraCuuThongTin.resources
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+E:\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+E:\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Gui_BaoCao.Form_BaoCao.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDMK.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDoiMatKhau.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmNhapMaKH.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemKH.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.Tim_Thong_Tin.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userBaoCao.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemNCC.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmCN_Sach.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDangNhap.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userNhaCungCap.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmXN_DieuKien.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemNV.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userHDNhapSach.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.MainFrame.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userHDBan.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userKhachHang.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userNhanVien.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userNhapSach.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Gui_BaoCao.Form_BaoCao.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userThongTinSach.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userTrangChu.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.TraCuuThongTin.resources
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\AN\Desktop\New folder\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmConnectSystem.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.Shared.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\ShockwaveFlashObjects.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\stdole.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmConnectSystem.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDMK.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDoiMatKhau.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmNhapMaKH.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemKH.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.Tim_Thong_Tin.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userBaoCao.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemNCC.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmCN_Sach.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDangNhap.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userNhaCungCap.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmXN_DieuKien.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemNV.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userHDNhapSach.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.MainFrame.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userHDBan.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userKhachHang.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userNhanVien.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userNhapSach.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Gui_BaoCao.Form_BaoCao.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userThongTinSach.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userTrangChu.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.TraCuuThongTin.resources
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\Study\1_.NET\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\ShockwaveFlashObjects.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\stdole.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmConnectSystem.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDMK.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDoiMatKhau.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmNhapMaKH.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemKH.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.Tim_Thong_Tin.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userBaoCao.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemNCC.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmCN_Sach.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDangNhap.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userNhaCungCap.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmXN_DieuKien.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmThemNV.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userHDNhapSach.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.MainFrame.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userHDBan.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userKhachHang.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userNhanVien.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userNhapSach.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Gui_BaoCao.Form_BaoCao.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userThongTinSach.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.userTrangChu.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.TraCuuThongTin.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.Shared.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn_.NET\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.Shared.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\ShockwaveFlashObjects.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\stdole.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmConnectSystem.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDMK.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDoiMatKhau.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userBaoCao.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmCN_Sach.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmDangNhap.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userNhaCungCap.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmXN_DieuKien.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userHDNhapSach.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.MainFrame.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.userHDBan.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.userKhachHang.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.userNhanVien.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.userNhapSach.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.Gui_BaoCao.Form_BaoCao.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.userThongTinSach.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.userTrangChu.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.TraCuuThongTin.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\bin\Debug\MetroFramework.dll
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.controlTrangChu.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.CT_Sach.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.GioHang.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.controlThongTinSach.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.CT_HoaDon.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmAdd_NV.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmTK_NV.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmAdd_NCC.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmTim_Kiem_KH_NCC.resources
+D:\Study\Software Engineering\DoAn_Complete\DoAn\Program\DoAn\DoAn\obj\Debug\DoAn.gui.frmAdd_KH.resources
